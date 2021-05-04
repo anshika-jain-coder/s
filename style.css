@@ -1,0 +1,92 @@
+body{
+	    background: linear-gradient(to bottom, #33ccff 0%, #0066ff 100%);
+color: black;
+}
+
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+hr{
+	width: 100%;
+}
+input
+{
+    background:black;
+}
+#Mi{
+	font-size: 15px;
+	color:black;
+	 font-family: "Times New Roman", Times, serif;
+	background-color: blue;
+	position: fixed;
+}
+h3{
+	color: black;
+}
+row::after{
+	content: "";
+	clear: both;
+	display:table;
+}
+.travel_mainDiv{
+	float:left;
+	width:33.33%;
+	padding: 5px;
+	border: 1px solid #c7c7c7;
+}
+.travel_mainDiv img{
+	width: 100%;
+	height: 300px;
+}
+.travel_mainDiv hr{
+	width: 100%;
+}
+.travel_mainDiv h5 , .travel_mainDiv p{
+	margin-left: 20px;
+}
+.movie_head{
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+	width: 100%;
+	display: inline-block;
+}
+.movie_head i{
+float: right;}
+.movie_text span {
+	color: darkorange;
+}
+#footer{
+	height: 20px;
+	background-color: aliceblue;
+}
+#What{
+	text-align: left;
+}
+.navbar-brand img{
+	height: 50px;
+	width: 50px;
+}
+h1{
+	font-family: serif;
+	color: black;
+	font-size: 90px;
+	text-align: center;
+}
+#sva{
+	text-align: center;
+	width: 100%;
+}
+h5{
+	color: black;
+}
